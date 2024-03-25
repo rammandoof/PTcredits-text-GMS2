@@ -1,6 +1,9 @@
 # Untitled PT Credits Project
 A little project I made in GMS2 (or just Gamemaker), which mimics Pizza Tower's Credits Sequence, but you can modify the text and anything else about it!
 
+![image](https://github.com/rammandoof/PTcredits-text-GMS2/assets/146557994/4ad548d6-849f-4610-908b-aa48daec2dac)
+
+
 # Installation
 Install Gamemaker Studio 2 (or just Gamemaker). I used Runtime v2024.2.0.163 with an IDE of v2024.2.0.132 Steam, although you can probably also use newer or even older versions of Gamemaker, just try it out :) .
 
