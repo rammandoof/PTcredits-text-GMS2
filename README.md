@@ -23,10 +23,13 @@ You can modiy anything about this project, but there is a small guide in the Pro
 
 # Q & A
 Q: Can I use this for my Projects?
+
 A: Yes and I highly recommend crediting me, but you don't have to!
 
 Q: Can I claim this as my own?
+
 A: No.
 
 Q: Can I use this with monetary gain?
+
 A: Not sure, I'd say no, unless it's for a YouTube Video.
