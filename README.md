@@ -14,7 +14,7 @@ After all of this, start Gamemaker (if you haven't) and goto File > Open Project
 
 * The Project Directory is the Directory where your Project is stored (look at the Image above).
 
-# Modying
+# Modyfing
 You can modiy anything about this project, but there is a small guide in the Project itself if you only need the change the text!
 
 # Q & A
