@@ -13,9 +13,10 @@ Picture of the usual Directory:
 After all of this, start Gamemaker (if you haven't) and goto File > Open Project > Project Directory* > Untitled PT Credits Project.
 
 ![image](https://github.com/rammandoof/PTcredits-text-GMS2/assets/146557994/d839441c-83d5-4e88-9125-9788f4905cc4)
+
 (Ignore the highlighted New Project, just a bug with snipping tools...)
 
-* The Project Directory is the Directory where your Project is stored (look at the Image above).
+*The Project Directory is the Directory where your Project is stored (look at the Image above).
 
 # Modyfing
 You can modiy anything about this project, but there is a small guide in the Project itself if you only need the change the text!
