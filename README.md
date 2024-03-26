@@ -16,6 +16,8 @@ After all of this, start Gamemaker (if you haven't) and goto File > Open Project
 
 (Ignore the highlighted New Project, just a bug with snipping tools...)
 
+You can delete both of the README.md and .gitattributes files, but I highly discourage deleting any of the other files!
+
 *The Project Directory is the Directory where your Project is stored (look at the Image above).
 
 # Modyfing
