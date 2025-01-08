@@ -21,7 +21,7 @@ You can delete both of the README.md and .gitattributes files, but I highly disc
 *The Project Directory is the Directory where your Project is stored (look at the Image above).
 
 # Modyfing
-You can modiy anything about this project, but there is a small guide in the Project itself if you only need the change the text!
+You can modify anything about this project, but there is a small guide in the Project itself if you only need the change the text!
 
 # Q & A
 Q: Can I use this for my Projects?
